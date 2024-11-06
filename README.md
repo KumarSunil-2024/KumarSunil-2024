@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @KumarSunil-2024
+# 👋 Hi, I’m Sunil Kumar
 
 - 👀 I’m interested in building robust full-stack applications with Java, Spring Boot, and front-end technologies.
 - 🌱 I’m currently learning advanced Spring Boot features and exploring new front-end frameworks.
